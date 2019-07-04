@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Steve Yan&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-07-03T15:44:34.112Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Steve Yan</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo blog test</title>
+    <link href="http://yoursite.com/2019/07/03/hexo-blog/"/>
+    <id>http://yoursite.com/2019/07/03/hexo-blog/</id>
+    <published>2019-07-03T14:53:02.844Z</published>
+    <updated>2019-07-03T15:44:34.112Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;20190703&quot;&gt;&lt;a href=&quot;#20190703&quot; class=&quot;headerlink&quot; title=&quot;20190703&quot;&gt;&lt;/a&gt;20190703&lt;/h2&gt;&lt;h3 id=&quot;hexo-blog&quot;&gt;&lt;a href=&quot;#hexo-blog&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/07/02/hello-world/"/>
+    <id>http://yoursite.com/2019/07/02/hello-world/</id>
+    <published>2019-07-02T14:39:42.499Z</published>
+    <updated>2019-07-02T14:39:42.499Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
